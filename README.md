@@ -1,2 +1,2 @@
-# Tennis-Club-Dev
-Tennis Club Players Web-Based Management System
+# PDMS Agile Team 4
+DevProduct Development Management System (PDMS) by Team Agile Wildcats
